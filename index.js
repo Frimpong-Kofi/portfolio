@@ -37,5 +37,5 @@ $(".owl-carousel").owlCarousel({
 
 // PRELOADER FADEOUT
 $(window).on("load", function () {
-  $(".preloader").delay("1000").fadeOut("slow");
+  $(".preloader").delay("700").fadeOut("slow");
 });

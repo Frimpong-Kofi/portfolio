@@ -32,13 +32,11 @@ html {
     border-bottom: 2px solid white;
 }
 
-a:hover {
-    text-decoration: none;
-}
 
 a {
     font-family: 'Poppins',
-        sans-serif;
+    sans-serif;
+    text-decoration: none;
 }
 
 li {

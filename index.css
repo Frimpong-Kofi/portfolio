@@ -51,12 +51,9 @@ li i:hover {
     color: white;
 }
 
-/* #home{
-    margin-top: 1rem;
-} */
-
 .type {
-    color: red;
+    color:#2774dc;
+    text-decoration:solid;
 }
 
 h1,
